@@ -1,26 +1,24 @@
 # IT Asset Lifecycle Tracker
 
-> Track IT assets from purchase to disposal
+Track IT assets from purchase to disposal with refresh forecasts, warranty dates and cost of ownership.
 
-Track IT assets from purchase to disposal.
-
-**Live:** https://ziontechgroup.com/it-asset-lifecycle-tracker/  
-**Network hub:** https://github.com/Zion-support/zion-app-network
+**Live app:** https://zion-support.github.io/it-asset-lifecycle-tracker/ · **GitHub:** https://github.com/Zion-support/it-asset-lifecycle-tracker
 
 ## Features
-- Full lifecycle registry: procurement to disposal
-- Warranty and refresh forecasting
-- Depreciation and TCO reporting
-- Integrations with MDM, help desk and finance
+- Full lifecycle states: ordered → active → retired
+- Warranty/EOSL alerts and refresh forecast
+- TCO per asset class
 
 ## Part of the Zion AI App Network
-- [App Network Directory](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
-- [Proposal Builder AI](https://github.com/Zion-support/proposal-builder-ai) — https://ziontechgroup.com/proposal-builder-ai/
-- [Expense Audit AI](https://github.com/Zion-support/expense-audit-ai) — https://ziontechgroup.com/expense-audit-ai/
-- [Content ROI Dashboard](https://github.com/Zion-support/content-roi-dashboard) — https://ziontechgroup.com/content-roi-dashboard/
-- [SLA Forecast Guardian](https://github.com/Zion-support/sla-forecast-guardian) — https://ziontechgroup.com/sla-forecast-guardian/
-- [Support Deflection Analyzer](https://github.com/Zion-support/support-deflection-analyzer) — https://ziontechgroup.com/support-deflection-analyzer/
-- [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard) — https://ziontechgroup.com/vendor-risk-scorecard/
+- 🏠 Homepage: https://ziontechgroup.com
+- 🌐 App Showcase: https://zion-support.github.io/apps/
+- 🧭 Master directory: https://github.com/Zion-support/zion-app-network
+- 🔗 Interlinks: see [NETWORK.md](NETWORK.md)
+
+## Related apps
+- [Asset Lifecycle Tracker](https://zion-support.github.io/asset-lifecycle-tracker/)
+- [Zion AI Warranty Tracker](https://zion-support.github.io/zion-ai-warranty-tracker/)
+- [IT Staffing Calculator](https://zion-support.github.io/it-staffing-calculator/)
 
 ---
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group · [Book a Discovery Call](https://ziontechgroup.com/discovery/)
