@@ -13,6 +13,7 @@ Track IT assets from purchase to disposal with refresh forecasts, warranty dates
 - 🏠 Homepage: https://ziontechgroup.com
 - 🌐 App Showcase: https://zion-support.github.io/apps/
 - 🧭 Master directory: https://github.com/Zion-support/zion-app-network
+- 🔗 Interlinks: see [NETWORK.md](NETWORK.md)
 
 ## Related apps
 - [Asset Lifecycle Tracker](https://zion-support.github.io/asset-lifecycle-tracker/)
